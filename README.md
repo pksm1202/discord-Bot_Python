@@ -1,1 +1,1 @@
-# discord-Bot_Python
+# discord 봇 오픈 AI 적용
